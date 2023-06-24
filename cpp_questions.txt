@@ -1,0 +1,20 @@
+CPP - What is a pointer in C++?
+A pointer is a variable that stores the memory address of another variable. Pointers are used to manipulate data by directly accessing memory.
+CPP - What is the difference between reference and pointer in C++?
+Both reference and pointer are used to manipulate data indirectly in C++. The difference is that a reference is an alias to an existing variable, while a pointer is a variable that stores the memory address of another variable.
+CPP - What is the purpose of a constructor in C++?
+A constructor is a special member function of a class that is used to initialize objects of that class. It is called automatically when an object is created.
+CPP - What is the purpose of a destructor in C++?
+A destructor is a special member function of a class that is used to destroy objects of that class. It is called automatically when an object is no longer needed.
+CPP - What is the difference between pass by value and pass by reference in C++?
+When passing an argument by value, a copy of the argument is made and passed to the function. When passing an argument by reference, a reference to the original argument is passed to the function, allowing the function to modify the original value.
+CPP - What is inheritance in C++?
+Inheritance is a mechanism in C++ that allows a class to derive properties and behavior from another class. The class that is being derived from is called the base class, while the class that is inheriting the properties is called the derived class.
+CPP - What is polymorphism in C++?
+Polymorphism is the ability of a class to take on many forms. In C++, polymorphism is achieved through function overloading and virtual functions.
+CPP - What is encapsulation in C++?
+Encapsulation is the practice of hiding the implementation details of a class from the outside world. This is done by declaring private member variables and methods in the class, and providing public methods to access and modify those variables.
+CPP - What is a namespace in C++?
+A namespace is a way to group related classes, functions, and variables together in C++. It helps to avoid naming conflicts between different parts of a program.
+CPP - What is the difference between const and constexpr in C++?
+Both const and constexpr are used to define variables that cannot be modified. The difference is that const variables are evaluated at run time, while constexpr variables are evaluated at compile time.

@@ -1,0 +1,20 @@
+Java - What is a class in Java?
+In Java, a class is a blueprint for creating objects. It contains fields (variables) and methods (functions) that define the behavior and properties of the objects.
+Java - What is inheritance in Java?
+Inheritance is a mechanism in Java where one class (called the subclass) inherits properties and methods from another class (called the superclass). This allows the subclass to reuse code from the superclass and to add new functionality as needed.
+Java - What is polymorphism in Java?
+Polymorphism is the ability of an object to take on many forms. In Java, this is achieved through inheritance and interfaces, which allow objects of different classes to be treated as objects of the same class.
+Java - What is an interface in Java?
+In Java, an interface is a collection of abstract methods (methods without a body) that define the behavior that a class should implement. A class can implement one or more interfaces, which allows it to inherit the abstract methods defined in the interface.
+Java - What is a constructor in Java?
+In Java, a constructor is a special method that is called when an object of a class is created. It is used to initialize the fields of the object and to perform any other setup that is required. The name of the constructor is the same as the name of the class.
+Java - What is an abstract class?
+An abstract class is a class that cannot be instantiated and is meant to be subclassed by other classes. It may contain abstract methods, which are methods without a body that must be implemented by any concrete subclass.
+Java - What is the difference between a constructor and a method?
+A constructor is a special method that is called when an object is created and is used to initialize the object's data. A method is a regular function that can be called on an object to perform a specific action.
+Java - What is the difference between an interface and a class?
+An interface is a type of reference that defines a set of methods that a class implementing the interface must implement. A class is a blueprint for creating objects that defines the object's data and behavior.
+Java - What is the difference between a static and non-static method?
+A static method is a method that belongs to the class and not to any particular instance of the class. It can be called without creating an object of the class. A non-static method is a method that belongs to an instance of the class and must be called on an object of the class.
+Java - What is the difference between an array and an ArrayList?
+An array is a fixed-size data structure that stores a collection of elements of the same type. An ArrayList is a dynamic data structure that can grow or shrink in size as elements are added or removed. An ArrayList can store elements of different types and provides additional methods for manipulation.

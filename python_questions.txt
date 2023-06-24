@@ -1,0 +1,28 @@
+Python - What is a dictionary in Python?
+A dictionary is a collection of key-value pairs, where each key is unique. It is mutable and can be modified by adding or deleting items.
+Python - What is a module in Python?
+A module is a file containing Python definitions and statements. It can be used to organize related code into a single file for easier reuse and maintenance.
+Python - What is a lambda function in Python?
+A lambda function is a small anonymous function that can take any number of arguments, but can only have one expression. They are often used as a shortcut for simple function definitions that will only be used once.
+Python - What is list comprehension in Python?
+List comprehension is a concise way to create lists based on existing lists. It allows you to create a new list by applying an expression to each element of an existing list or other iterable object.
+Python - What is the difference between a tuple and a list in Python?
+A tuple is a collection of immutable objects, while a list is a collection of mutable objects. Tuples are typically used to represent a collection of related values, while lists are often used to represent a collection of similar values that can be modified.
+Python - What is the difference between a set and a list in Python?
+A set is an unordered collection of unique elements, while a list is an ordered collection of elements that may contain duplicates. Sets are often used to perform mathematical operations such as union, intersection, and difference.
+Python - What is a decorator in Python?
+A decorator is a special type of function that can modify or enhance the behavior of other functions. It is used to add functionality to existing functions without modifying their source code.
+Python - What is a generator function in Python?
+A generator function is a special type of function that returns an iterator, which can be used to iterate over a sequence of values. It is used to generate a series of values on-the-fly, without having to create a large sequence in memory.
+Python - What is a class in Python?
+A class is a blueprint for creating objects, which defines a set of attributes and methods that the objects will have. It is used to encapsulate data and behavior into a single entity, making it easier to manage and reuse code.
+Python - What is the difference between a class and an object in Python?
+A class is a template for creating objects, while an object is an instance of a class. When you create an object, you are creating a unique instance of that class, with its own set of attributes and methods.
+Python - What is the difference between a method and a function in Python?
+A method is a function that is associated with an object, and can access its data and behavior. A function is a standalone piece of code that can be called from anywhere in the program.
+Python - What is the difference between an instance variable and a class variable in Python?
+An instance variable is a variable that is unique to each instance of a class, while a class variable is a variable that is shared by all instances of the class. Instance variables are typically used to store data that is specific to each instance, while class variables are often used to store data that is shared across all instances.
+Python - What is the difference between a local variable and a global variable in Python?
+A local variable is a variable that is defined within a function, and is only accessible within that function. A global variable is a variable that is defined outside of any function, and is accessible throughout the entire program.
+Python - What is a namespace in Python?
+A namespace is a collection of names that are used to refer to objects in the program. It is used to avoid naming conflicts between different parts of the program.
