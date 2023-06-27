@@ -25,9 +25,9 @@ def send_message():
     shortlisted_resumes_directory = input("Please enter the directory of shortlisted resumes: ")
 
     # Initialize Twilio client
-    account_sid = "AC6b833109c2b7d8bc9b66aecaf34e1980"
-    auth_token = "4bd49a86ddd99e247b76b7139ffd5788"
-    twilio_phone_number = "+12525168432"
+    account_sid = ""
+    auth_token = ""
+    twilio_phone_number = ""
 
     client = Client(account_sid, auth_token)
 
