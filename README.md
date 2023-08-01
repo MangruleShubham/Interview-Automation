@@ -43,11 +43,9 @@ Contributing:
 Contributions to enhance the functionality and performance of the Interview Automation for HR project are welcome. If you wish to contribute, please follow the guidelines mentioned in the CONTRIBUTING.md file.
 
 License:
-The Interview Automation for HR project is released under the [License Name] license. Please review the license file for more details.
+The Interview Automation for HR project is released under the [Shubham] license. Please review the license file for more details.
 
 Contact:
-For any inquiries or support regarding the project, please contact [Your Name] at [Email Address].
+For any inquiries or support regarding the project, please contact Shubham Mangrule at [shubham.mangrule20@vit.edu].
 
 We appreciate your interest in the Interview Automation for HR project and look forward to your contributions!
-
-Note: Update the placeholders ([GitHub Repository URL], [License Name], [Your Name], [Email Address]) with the appropriate information specific to your project.
